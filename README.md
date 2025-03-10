@@ -21,7 +21,7 @@ b) **VS Code + LaTeX Workshop:**
 
 Questo template è basato sul lavoro originale di **Giulia Morello**, rilasciato sotto la **Licenza Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)**. Puoi copiare, modificare, distribuire e usare questo template anche per scopi commerciali, a condizione che tu attribuisca correttamente l'autore originale e l'autore delle modifiche.
 
-Le modifiche sono state apportate per adattare il template alle esigenze di studenti triennali. In particolare si sottolineano le seguenti modifiche:
+Le modifiche sono state apportate da **Dott. Loris Eccher** per adattare il template alle esigenze di studenti triennali. In particolare si sottolineano le seguenti modifiche:
 - Rimozione di alcune sezioni non adatte ai fini di una tesi triennale
 - Aggiunta di alcuni pacchetti utili ai fini di una tesi svolta in ambito SECS-S/06
 - Aggiunta di alcune sezioni utili
