@@ -1,3 +1,20 @@
+## Istruzioni su come scaricare ed usare il template
+Questo repository contiene un **template** adattato a studenti triennali dell'Università di Trento atti a scrivere la tesi in LateX, con particolare riguardo agli studenti DEM.  
+
+**Download**  
+Per scaricare il template in formato ZIP clicca sul pulsante **"Code"** (in alto a destra) e seleziona **"Download ZIP"**.
+
+**Utilizzo**  
+Questo template è progettato per essere utilizzato su piattaforme di editing LaTeX come **Overleaf** o **VS Code** con l'estensione **LaTeX Workshop**.
+a) Utilizzo su **Overleaf**:
+1. Vai su [Overleaf](https://www.overleaf.com).
+2. Crea un nuovo progetto selezionando **"Upload Project"**.
+3. Scarica il repository come file ZIP e **carica il file ZIP** su Overleaf.
+4. Una volta caricato, puoi iniziare a modificare il template direttamente nel tuo browser.
+ 
+b) **VS Code + LaTeX Workshop:** 
+1. Apri la cartella in Visual Studio Code con il comando "open folder" e usa l'estensione LaTeX Workshop.  
+
 ## Licenza e attribuzione
 
 Questo template è basato sul lavoro originale di **Giulia Morello**, rilasciato sotto la **Licenza Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)**. Puoi copiare, modificare, distribuire e usare questo template anche per scopi commerciali, a condizione che tu attribuisca correttamente l'autore originale e l'autore delle modifiche.
