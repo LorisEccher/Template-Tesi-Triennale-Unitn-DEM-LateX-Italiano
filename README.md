@@ -12,6 +12,8 @@ Se utilizzi o modifichi questo template, **devi** fornire l'attribuzione come se
 - Attribuisci **Loris Eccher** come autore delle modifiche.
 - Specifica se hai modificato il lavoro.
 
+**Non è necessario citare l'autore che ha fornito questo template nel corpo della tesi**
+
 Il template originale può essere trovato su (https://www.overleaf.com/latex/templates/tesi-unitn/jjrxgvzgxpsm).
 
 Per maggiori dettagli sulla licenza, consulta il file `LICENSE` o visita il sito ufficiale della licenza: [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
