@@ -27,9 +27,9 @@ Le modifiche sono state apportate da **Dott. Loris Eccher** per adattare il temp
 - Aggiunta di alcuni pacchetti utili ai fini di una tesi svolta in ambito SECS-S/06
 - Aggiunta di alcune sezioni utili
 
-Se utilizzi o modifichi questo template, **devi** fornire l'attribuzione come segue:
-- Attribuisci **Giulia Morello** come autrice del template originale.
-- Attribuisci **Loris Eccher** come autore delle modifiche.
+In caso di condivisione di questo template modificato, **bisogna** fornirnire l'attribuzione come segue:
+- Attribuire **Giulia Morello** come autrice del template originale.
+- Attribuire **Loris Eccher** come autore del riadattamento modificato.
 - Specifica se hai modificato il lavoro.
 
 **Non è necessario citare l'autore che ha fornito questo template nel corpo della tesi**
