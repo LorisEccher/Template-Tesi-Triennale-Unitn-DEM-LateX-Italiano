@@ -9,7 +9,7 @@ Le modifiche sono state apportate per adattare il template alle esigenze di stud
 
 Se utilizzi o modifichi questo template, **devi** fornire l'attribuzione come segue:
 - Attribuisci **Giulia Morello** come autrice del template originale.
-- Attribuisci **[Loris Eccher]** come autore delle modifiche.
+- Attribuisci **Loris Eccher** come autore delle modifiche.
 - Specifica se hai modificato il lavoro.
 
 Il template originale può essere trovato su (https://www.overleaf.com/latex/templates/tesi-unitn/jjrxgvzgxpsm).
