@@ -1,0 +1,63 @@
+% COMANDI FORMATTAZIONE PAGINA 
+\usepackage{geometry} 
+\usepackage{csquotes} 
+\usepackage{graphicx} 
+\usepackage[hidelinks]{hyperref}  
+\usepackage{setspace} 
+\usepackage{appendix} 
+\usepackage{abstract}
+\usepackage{tikz}
+\usetikzlibrary{automata, positioning}
+\usetikzlibrary{matrix,decorations.pathreplacing}
+\usetikzlibrary{shapes.geometric, arrows, calc}
+% LINEA SOPRA LE PAGINE
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\leftmark}
+\fancyhead[RO]{\rightmark}
+\fancyfoot[LE,RO]{\thepage}
+
+% COMANDI FORMATTAZIONE TESTO
+\usepackage[utf8]{inputenc}
+\usepackage{listings} 
+\newcommand{\rcode}[1]{\texttt{\lstinline{#1}}}
+\lstset{
+  language=R,
+  basicstyle=\ttfamily\small,
+  keywordstyle=\color{black},
+  commentstyle=\color{green!50!black},
+  stringstyle=\color{red},
+  stepnumber=1,
+  breaklines=true
+}  
+\usepackage[svgnames]{xcolor} 
+\usepackage{comment} 
+
+% COMANDI ELEMENTI GRAFICI E IMMAGINI
+
+% COMANDI FORMULE MATEMATICHE
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{physics}
+\usepackage{placeins}
+\usepackage{braket}
+\usepackage{nicematrix}
+% PER INSERIRE ESEMPI
+\newtheorem{esempio}{Esempio}
+
+% PER AVERE TESTI IN ITALIANO
+\usepackage[italian]{babel}
+
+% PRIMA PAGINA
+\usepackage{frontespizio}
+\usepackage[pages=some]{background}
+
+% BIBLIOGRAFIA
+\usepackage[style=numeric]{biblatex}
+\setlength{\bibitemsep}{\baselineskip}
+\addbibresource{biblio.bib}
+
+
+
+

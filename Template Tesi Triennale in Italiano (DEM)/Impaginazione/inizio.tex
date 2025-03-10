@@ -1,0 +1,39 @@
+
+\Universita{Università degli Studi di Trento}
+\Dipartimento{Dipartimento di Economia e Management}
+\CorsoDiLaurea{Corso di Laurea in Economia e Management}
+\AnnoAccademico{Anno Accademico 2024/2025}
+\Titolo{TITOLO DA METTERE}
+\Relatore{\large Prof. \textsc{Ricardo Alberto Marques Pereira}}
+\RelatoreLabel{\Large Supervisore}
+\CandidatoLabel{\Large Laureando}
+
+\Candidato{ \large \textsc{Mario Rossi}} 
+\Logo{Impaginazione/logo_rosso.png}
+\LogoWidth{4.5cm} %optional, default: 3cm
+\LogoPosition{top}
+\LogoSfondo{Impaginazione/logo_bn.png}
+\opacitaSfondo{0.05}
+
+\begin{titlepage}
+    \newgeometry{left=3cm, right=3cm, bottom=2cm, top =3cm} 
+    \pagestyle{empty}
+    \makefrontpage
+    \restoregeometry
+\end{titlepage}
+
+\frontmatter
+
+\renewcommand{\abstractname}{Abstract} % Da mettere solo perchè con il pacchetto italian babel tradurrebbe abstract in Sommario %
+\begin{abstract}
+    Qui va l'abstract 
+\end{abstract}
+
+
+\tableofcontents
+
+\mainmatter
+\chapter*{Introduzione}
+\markboth{\MakeUppercase{Introduzione}}{}
+\addcontentsline{toc}{chapter}{Introduzione}
+\input{capitoli/intro}
