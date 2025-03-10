@@ -5,6 +5,8 @@ Questo repository contiene un **template** adattato a studenti triennali dell'Un
 Per scaricare il template in formato ZIP clicca sul pulsante **"Code"** (in alto a destra) e seleziona **"Download ZIP"**.
 
 **Utilizzo**  
+All'interno del template vi è un file denominato ISTRUZIONI.tex che continene alcune dritte utili per l'utilizzo del linguaggio LateX.
+
 Questo template è progettato per essere utilizzato su piattaforme di editing LaTeX come **Overleaf** o **VS Code** con l'estensione **LaTeX Workshop**.
 a) Utilizzo su **Overleaf**:
 1. Vai su [Overleaf](https://www.overleaf.com).
@@ -13,7 +15,7 @@ a) Utilizzo su **Overleaf**:
 4. Una volta caricato, puoi iniziare a modificare il template direttamente nel tuo browser.
  
 b) **VS Code + LaTeX Workshop:** 
-1. Apri la cartella in Visual Studio Code con il comando "open folder" e usa l'estensione LaTeX Workshop.  
+1. Apri la cartella in Visual Studio Code con il comando "open folder" e usa l'estensione LaTeX Workshop.
 
 ## Licenza e attribuzione
 
