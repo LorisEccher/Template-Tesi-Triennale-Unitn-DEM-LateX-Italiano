@@ -1,0 +1,47 @@
+# Istruzioni per l'uso del template
+
+A) Come scrivere il testo: 
+Essenzialmente, si scrive normalmente nelle varie cartelle. Tuttavia, ci sono due cose da tenere a mente:
+- Un solo "invio" non fa andare il testo a capo nel PDF. Devi premere due volte il tasto "invio" per andare a capo.
+- Per fare spazi personalizzati, usa il comando `\vspace{misura in cm}`. (Vedi Capitolo 2 per esempi).
+
+B) Citazioni: 
+Per citare un testo, devi prima inserirlo nel file `biblio.bib`, assegnargli una parola chiave che lo rappresenti (ad esempio, per un libro di Mario Rossi, lo puoi chiamare `MR`). Poi, usa il comando `\cite{MR}` per inserire la citazione nel testo. Il numero di riferimento verrà inserito automaticamente.  
+(Vedi Capitolo 2 per un esempio pratico, ad esempio, la citazione dopo "ciaooo").
+
+C) Formule matematiche:  
+Per scrivere le formule matematiche, usa i seguenti comandi:
+- `\begin{equation} ... \end{equation}` per una formula numerata.
+- `\begin{equation*} ... \end{equation*}` per una formula non numerata.
+
+Con l'asterisco, la formula non verrà numerata. Includi un `\label{parola chiave}` prima di `\end{equation}`, così puoi fare riferimento alla formula nel testo usando `\eqref{parola chiave}`, che ti fornirà la numerazione automatica.  
+(Vedi Capitolo 1, Sezione 1 per esempi di formule numerate e Sezione 2 per esempi di formule non numerate).
+
+D) Per fare esempi:  
+Per scrivere esempi numerati, usa il seguente comando:
+```latex
+\begin{esempio}
+    Testo dell'esempio
+\end{esempio}
+
+E) Nelle formule matematiche, i pedici devono essere scritti come $x_{j}$ e le potenze come $x^{j}$.
+
+F) Se desideri utilizzare la notazione matematica all'interno del testo, usa i simboli del dollaro. La sintassi corretta è:
+
+$Testo in matematica$
+
+(Vedi il capitolo 2 per comprendere le differenze tra l'uso e il non uso del simbolo del dollaro).
+
+G) I comandi \section{} aprono una sezione con il relativo titolo tra parentesi, mentre i comandi \subsection{} aprono una sottosezione con il relativo titolo. Infine, i comandi \subsubsection{} aprono una sottosottosezione. Un esempio è nel Capitolo 1. (Questi comandi saranno molto utilizzati!)
+
+H) Gli spazi vuoti $ \ \ \ $ nelle formule matematiche sono utilizzati per distanziare a piacere gli elementi. Ad esempio, se voglio che il simbolo "=" sia più distante da "Y", scrivo: $Y \ \ \ = X$.
+
+(ATTENZIONE! Non devi mettere nulla subito dopo il comando \ per distanziare, altrimenti LaTeX lo interpreterà come un comando).
+
+I) I titoli dei capitoli devono essere inseriti in main.tex, subito dopo il comando \chapter{}.
+
+J) Il titolo della tesi va inserito in inizio.tex, utilizzando il comando \Titolo{TITOLO DA METTERE}.
+
+K) Le citazioni vanno inserite nel file biblio.bib in base al tipo di riferimento. Ogni citazione deve iniziare con il simbolo "@", seguito dal tipo di riferimento (ad esempio, @book, @article, @journal, ecc.). Non è necessario specificare subito se si tratta di un libro, un articolo, ecc., poiché il formato può essere modificato in seguito. L'importante è segnare correttamente la citazione nel file, così sarà pronta per essere utilizzata nel testo.
+
+
