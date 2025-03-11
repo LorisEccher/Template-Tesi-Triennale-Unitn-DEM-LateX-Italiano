@@ -10,7 +10,7 @@ All'interno del template vi è un file denominato ISTRUZIONI.tex che continene a
 
 Questo template è progettato per essere utilizzato su piattaforme di editing LaTeX come **Overleaf** o **VS Code** con l'estensione **LaTeX Workshop**.
 a) Utilizzo su **Overleaf**:
-1. Vai su [Overleaf](https://www.overleaf.com).
+1. Vai su [Overleaf](https://www.overleaf.com) e crea un account.
 2. Crea un nuovo progetto selezionando **New Project** e scegliendo **"Upload Project"** dall'elenco.
 3. Scarica il repository da GitHub come file ZIP e **carica il file ZIP** su Overleaf.
 4. Una volta caricato, puoi iniziare a modificare il template direttamente nel tuo browser.
