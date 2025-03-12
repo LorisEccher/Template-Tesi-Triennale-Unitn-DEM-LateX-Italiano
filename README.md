@@ -1,5 +1,5 @@
 ## Istruzioni su come scaricare ed usare il template
-Questo repository contiene un **template** adattato a studenti triennali dell'Università di Trento atti a scrivere la tesi in LateX, con particolare riguardo agli studenti DEM.  
+Questo repository contiene un **template** esemplificato e adattato a studenti triennali dell'Università di Trento atti a scrivere la tesi in LaTeX, con particolare riguardo agli studenti DEM.  
 Per scaricare il template non è necessario un account GitHub, tuttavia sarebbe molto apprezzato se lo si creasse così da mettere una stellina a questo lavoro nel caso lo si sia trovato utile e di aiuto :) (pulsante in alto a destra per la stellina).
 
 **Download**  
