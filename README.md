@@ -3,12 +3,13 @@ Questo repository contiene un **template** adattato a studenti triennali dell'Un
 Per scaricare il template non è necessario un account GitHub, tuttavia sarebbe molto apprezzato se lo si creasse così da mettere una stellina a questo lavoro nel caso lo si sia trovato utile e di aiuto :) (pulsante in alto a destra per la stellina).
 
 **Download**  
-Per scaricare il template in formato ZIP clicca sul pulsante **"Code"** (in alto a destra) e seleziona **"Download ZIP"**.
+Per scaricare il template in formato ZIP clicca sul pulsante verde **"Code"** (in alto a destra) e seleziona **"Download ZIP"**.
 
 **Utilizzo**  
 All'interno del template vi è un file denominato ISTRUZIONI.tex che continene alcune dritte utili per l'utilizzo del linguaggio LateX.
 
-Questo template è progettato per essere utilizzato su piattaforme di editing LaTeX come **Overleaf** o **VS Code** con l'estensione **LaTeX Workshop**.
+Questo template è progettato per essere utilizzato su piattaforme di editing LaTeX come **Overleaf** o **VS Code** con l'estensione LaTeX Workshop.
+
 a) Utilizzo su **Overleaf**:
 1. Vai su [Overleaf](https://www.overleaf.com) e crea un account.
 2. Crea un nuovo progetto selezionando **New Project** e scegliendo **"Upload Project"** dall'elenco.
