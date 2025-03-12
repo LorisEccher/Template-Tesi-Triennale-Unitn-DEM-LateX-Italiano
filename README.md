@@ -21,7 +21,7 @@ b) **VS Code + LaTeX Workshop:**
 
 ## Licenza e attribuzione
 
-Questo template è basato sul lavoro originale di **Giulia Morello**, rilasciato sotto la **Licenza Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)**. Puoi copiare, modificare, distribuire e usare questo template anche per scopi commerciali, a condizione che tu attribuisca correttamente l'autore originale e l'autore delle modifiche.
+Questo template è basato sul lavoro originale di **Giulia Morelli**, rilasciato sotto la **Licenza Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)**. Puoi copiare, modificare, distribuire e usare questo template anche per scopi commerciali, a condizione che tu attribuisca correttamente l'autore originale e l'autore delle modifiche.
 
 Le modifiche sono state apportate da **Dott. Loris Eccher** per adattare il template alle esigenze di studenti triennali. In particolare si sottolineano le seguenti modifiche:
 - Rimozione di alcune sezioni non adatte ai fini di una tesi triennale
@@ -29,7 +29,7 @@ Le modifiche sono state apportate da **Dott. Loris Eccher** per adattare il temp
 - Aggiunta di alcune sezioni utili
 
 In caso di condivisione di questo template modificato, **bisogna** fornirnire l'attribuzione come segue:
-- Attribuire **Giulia Morello** come autrice del template originale.
+- Attribuire **Giulia Morelli** come autrice del template originale.
 - Attribuire **Loris Eccher** come autore del riadattamento modificato.
 - Specifica se hai modificato il lavoro.
 
